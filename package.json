@@ -1,0 +1,14 @@
+{
+  "name": "pdf-signature-creator",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "main": "main.js",
+  "repository": "https://github.com/jaroslawlesniak/pdf-signature-creator.git",
+  "author": "Jarosław Leśniak <jlesniak@itisit.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
